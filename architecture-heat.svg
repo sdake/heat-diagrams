@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="architecture-heat.svg"
+   inkscape:version="0.48.1 r9760"
+   version="1.1"
+   id="svg2"
+   height="990"
+   width="1530">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="605.32978"
+     inkscape:cy="427.0452"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path6474"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path6334"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path6316"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       id="filter5325"
+       x="-0.023789359"
+       width="1.0475787"
+       y="-0.16964591"
+       height="1.3392918">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.3257023"
+         id="feGaussianBlur5327" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5329"
+       x="-0.1816825"
+       width="1.363365"
+       y="-0.84429028"
+       height="2.6885806">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.3257023"
+         id="feGaussianBlur5331" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5353"
+       x="-0.22950954"
+       width="1.4590191"
+       y="-0.84429028"
+       height="2.6885806">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.3257023"
+         id="feGaussianBlur5355" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5353-1"
+       x="-0.22950955"
+       width="1.4590191"
+       y="-0.84429026"
+       height="2.6885805">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.3257023"
+         id="feGaussianBlur5355-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5329-4"
+       x="-0.1816825"
+       width="1.3633651"
+       y="-0.84429026"
+       height="2.6885805">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.3257023"
+         id="feGaussianBlur5331-1" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5325-4"
+       x="-0.023789359"
+       width="1.0475787"
+       y="-0.16964591"
+       height="1.3392918">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.3257023"
+         id="feGaussianBlur5327-2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5325-17"
+       x="-0.023789359"
+       width="1.0475787"
+       y="-0.16964591"
+       height="1.3392918">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.3257023"
+         id="feGaussianBlur5327-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5325-4-6"
+       x="-0.023789359"
+       width="1.0475787"
+       y="-0.16964591"
+       height="1.3392918">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.3257023"
+         id="feGaussianBlur5327-2-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5325-4-6-7"
+       x="-0.023789359"
+       width="1.0475787"
+       y="-0.16964591"
+       height="1.3392918">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.3257023"
+         id="feGaussianBlur5327-2-0-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5126">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.2882141"
+         id="feGaussianBlur5128" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5130">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.2882141"
+         id="feGaussianBlur5132" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5134"
+       x="-0.013824188"
+       width="1.0276484"
+       y="-0.10271023"
+       height="1.2054205">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.2882141"
+         id="feGaussianBlur5136" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="component container shadows"
+     transform="translate(0,-62.3622)"
+     style="display:inline">
+    <rect
+       ry="76.381004"
+       rx="67.175667"
+       y="598.05365"
+       x="390.67883"
+       height="445.25089"
+       width="744.4715"
+       id="rect4065-6-9-3-6-5-4-4-4-4"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8.77422523;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5126)"
+       inkscape:transform-center-x="-1018.0318"
+       inkscape:transform-center-y="175.72538"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="74.690506"
+       rx="72.832573"
+       y="82.263062"
+       x="390.88699"
+       height="345.76862"
+       width="744.4715"
+       id="rect4065-6-9-3-6-5-4-4-1"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7.73213005000000031;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5130)"
+       inkscape:transform-center-x="-1018.0318"
+       inkscape:transform-center-y="136.46311"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="30.130087"
+       rx="40.305607"
+       y="460.40564"
+       x="388.22867"
+       height="100.20145"
+       width="744.4715"
+       id="rect4065-6-9-3-6-5-4-4-0-4"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.16239594999999962;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5134)"
+       inkscape:transform-center-x="-1018.0318"
+       inkscape:transform-center-y="39.546114"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Component Containers"
+     style="display:inline"
+     transform="translate(0,-62.3622)">
+    <rect
+       ry="74.690506"
+       rx="72.832573"
+       y="76.936974"
+       x="385.73944"
+       height="345.76862"
+       width="744.4715"
+       id="rect4065-6-9-3-6-5-4-4"
+       style="fill:#241ab2;fill-opacity:1;stroke:#7972d8;stroke-width:7.73213005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-1018.0318"
+       inkscape:transform-center-y="136.46311"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="41.132107"
+       rx="44.278873"
+       y="191.72485"
+       x="393.04996"
+       height="103.63754"
+       width="739.0567"
+       id="rect4065-6-9-3-7-7-4-6-0"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:9.13058662;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5325-4)"
+       inkscape:transform-center-x="-580.48929"
+       inkscape:transform-center-y="20.182861"
+       transform="matrix(0.68539856,0,0,0.66739929,232.51997,158.67294)"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="27.451538"
+       rx="30.348677"
+       y="285.34561"
+       x="500.04657"
+       height="69.167625"
+       width="506.5484"
+       id="rect4065-6-9-3-7-7-4-65"
+       style="fill:#574dd8;fill-opacity:1;stroke:#7972d8;stroke-width:6.17537212;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-580.48928"
+       inkscape:transform-center-y="20.182867"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       id="flowRoot4135-5-4-2-9"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(651.34633,331.30533)"
+       inkscape:transform-center-x="134.35029"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4137-6-5-9-5" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara4141-0-6-3-6">Job Generator</flowPara></flowRoot>    <rect
+       ry="30.130087"
+       rx="40.305607"
+       y="455.07956"
+       x="383.08121"
+       height="100.20145"
+       width="744.4715"
+       id="rect4065-6-9-3-6-5-4-4-0"
+       style="fill:#241ab2;fill-opacity:1;stroke:#7972d8;stroke-width:4.16239595;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-1018.0318"
+       inkscape:transform-center-y="39.546114"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       id="flowRoot4135-5-4-2-9-6"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(564.83253,513.51413)"
+       inkscape:transform-center-x="134.35029"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4137-6-5-9-5-9" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara4141-0-6-3-6-0">Openstack RPC (RabbitMQ)</flowPara></flowRoot>    <rect
+       ry="76.381004"
+       rx="67.175667"
+       y="592.72754"
+       x="385.53128"
+       height="445.25089"
+       width="744.4715"
+       id="rect4065-6-9-3-6-5-4-4-4"
+       style="fill:#241ab2;fill-opacity:1;stroke:#7972d8;stroke-width:8.77422523;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-1018.0318"
+       inkscape:transform-center-y="175.72538"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       id="flowRoot4135-5-4-2-1-6"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(664.93549,644.41044)"
+       inkscape:transform-center-y="-10.412109"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4137-6-5-9-7-4" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara4141-0-6-3-2-3">Heat Engine</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="components shadow"
+     style="display:inline"
+     transform="translate(0,-62.3622)">
+    <rect
+       ry="41.132107"
+       rx="44.278873"
+       y="191.72485"
+       x="393.04996"
+       height="103.63754"
+       width="739.0567"
+       id="rect4065-6-9-3-7-7-4-6"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:9.13058662;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5325)"
+       inkscape:transform-center-x="-580.48929"
+       inkscape:transform-center-y="20.182861"
+       transform="matrix(0.68539856,0,0,0.66739929,235.45983,54.839832)"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="components"
+     style="display:inline"
+     transform="translate(0,-62.3622)">
+    <rect
+       ry="27.451538"
+       rx="30.348677"
+       y="181.5125"
+       x="502.98642"
+       height="69.167625"
+       width="506.5484"
+       id="rect4065-6-9-3-7-7-4"
+       style="fill:#574dd8;fill-opacity:1;stroke:#7972d8;stroke-width:6.17537212;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:transform-center-x="-580.48928"
+       inkscape:transform-center-y="20.182867"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       id="flowRoot4135-5-4-2"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(529.83539,226.05801)"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4137-6-5-9" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara4141-0-6-3">OpenStack Rest Server Internals</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8356"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(47,-22)"><flowRegion
+         id="flowRegion8358"><rect
+           id="rect8360"
+           width="929"
+           height="809"
+           x="-127"
+           y="111.36218" /></flowRegion><flowPara
+         id="flowPara8362" /></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text3550"
+       y="795.36218"
+       x="444"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="795.36218"
+         x="444"
+         id="tspan3552"
+         sodipodi:role="line" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3392"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(47,40.3622)"><flowRegion
+         id="flowRegion3394"><rect
+           id="rect3396"
+           width="509"
+           height="67"
+           x="258"
+           y="320" /></flowRegion><flowPara
+         id="flowPara3398" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8356-9"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(1436.548,-71.3256)"><flowRegion
+         id="flowRegion8358-6"><rect
+           id="rect8360-0"
+           width="929"
+           height="809"
+           x="-127"
+           y="111.36218" /></flowRegion><flowPara
+         id="flowPara8362-9" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3392-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(1436.548,-8.9634)"><flowRegion
+         id="flowRegion3394-4"><rect
+           id="rect3396-6"
+           width="509"
+           height="67"
+           x="258"
+           y="320" /></flowRegion><flowPara
+         id="flowPara3398-1" /></flowRoot>    <flowRoot
+       id="flowRoot4135-5-4-2-1"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(639.68782,124.37728)"
+       inkscape:transform-center-y="-10.412109"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4137-6-5-9-7" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara4141-0-6-3-2">Heat Rest API</flowPara></flowRoot>    <rect
+       ry="41.132107"
+       rx="44.278873"
+       y="191.72485"
+       x="393.04996"
+       height="103.63754"
+       width="739.0567"
+       id="rect4065-6-9-3-7-7-4-6-0-1"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:9.13058662;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5325-4-6)"
+       inkscape:transform-center-x="-580.48929"
+       inkscape:transform-center-y="20.182861"
+       transform="matrix(0.68539856,0,0,0.66739929,232.31176,674.46346)"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="27.451538"
+       rx="30.348677"
+       y="801.13617"
+       x="499.83841"
+       height="69.167625"
+       width="506.5484"
+       id="rect4065-6-9-3-7-7-4-65-3"
+       style="fill:#574dd8;fill-opacity:1;stroke:#7972d8;stroke-width:6.17537212;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-580.48928"
+       inkscape:transform-center-y="20.182867"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       id="flowRoot4135-5-4-2-9-0"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(661.03763,845.68164)"
+       inkscape:transform-center-x="134.35029"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4137-6-5-9-5-2" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara4141-0-6-3-6-9">Job Parser</flowPara></flowRoot>    <rect
+       ry="41.132107"
+       rx="44.278873"
+       y="191.72485"
+       x="393.04996"
+       height="103.63754"
+       width="739.0567"
+       id="rect4065-6-9-3-7-7-4-6-6"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:9.13058662;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5325-17)"
+       inkscape:transform-center-x="-580.48929"
+       inkscape:transform-center-y="20.182861"
+       transform="matrix(0.68539856,0,0,0.66739929,235.25162,570.63035)"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="27.451538"
+       rx="30.348677"
+       y="697.3031"
+       x="502.77823"
+       height="69.167625"
+       width="506.5484"
+       id="rect4065-6-9-3-7-7-4-0"
+       style="fill:#574dd8;fill-opacity:1;stroke:#7972d8;stroke-width:6.17537212;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-580.48928"
+       inkscape:transform-center-y="20.182867"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       id="flowRoot4135-5-4-2-93"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(678.11957,744.67696)"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4137-6-5-9-54" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara4141-0-6-3-3">RPC API</flowPara></flowRoot>    <rect
+       ry="41.132107"
+       rx="44.278873"
+       y="191.72485"
+       x="393.04996"
+       height="103.63754"
+       width="739.0567"
+       id="rect4065-6-9-3-7-7-4-6-0-1-9"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:9.13058662;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5325-4-6-7)"
+       inkscape:transform-center-x="-591.11308"
+       inkscape:transform-center-y="20.182861"
+       transform="matrix(0.69794236,0,0,0.66739929,220.56044,783.75534)"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="27.451538"
+       rx="30.9041"
+       y="910.42804"
+       x="492.98325"
+       height="69.167625"
+       width="515.81897"
+       id="rect4065-6-9-3-7-7-4-65-3-9"
+       style="fill:#574dd8;fill-opacity:1;stroke:#7972d8;stroke-width:6.23162556;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-591.11308"
+       inkscape:transform-center-y="20.182867"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       id="flowRoot4135-5-4-2-9-0-3"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(509.67347,954.97352)"
+       inkscape:transform-center-x="134.35029"
+       inkscape:export-filename="/home/sdake/repos/diagrams/architecture-heat.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4137-6-5-9-5-2-0" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara4141-0-6-3-6-9-2">Application Control and Monitoring</flowPara></flowRoot>  </g>
+</svg>
