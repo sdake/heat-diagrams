@@ -23,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.57926536"
-     inkscape:cx="188.26842"
+     inkscape:cx="191.72107"
      inkscape:cy="547.30269"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -86,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -120,19 +120,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#7972d8;stroke-width:5.28742312999999964;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:transform-center-x="-510.79237"
        inkscape:transform-center-y="127.18093" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#7972d8;stroke-width:2.81476116000000021;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 489.38534,811.06624 0,50.96875 c 0,20.5118 16.2862,37.03125 36.53119,37.03125 l 175.68749,0 0,65.4375 c 0,8.2766 -11.80485,14.9375 -26.46875,14.9375 l -260.81243,0 c -14.6639,0 -26.4688,-6.6609 -26.4688,-14.9375 l 0,-138.5 c 0,-8.2766 11.8049,-14.9375 26.4688,-14.9375 l 75.0625,0 z"
-       id="rect4065-6-9-3-6-5-4-4-8-2-9"
-       inkscape:connector-curvature="0" />
-    <flowRoot
-       id="flowRoot4135-5-4-8-7-5-2-7-2-7-5-0"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#574d00;fill-opacity:1;stroke:#ffff44;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="translate(544.37254,944.70578)"><flowRegion
-         id="flowRegion4137-6-5-6-2-7-5-1-7-1-8-3" /><flowPara
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#574dd8;fill-opacity:1;stroke:#574dd8;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         id="flowPara3612">Cloud Application #1</flowPara></flowRoot>    <rect
+    <rect
        ry="39.441193"
        rx="22.7328"
        y="618.94788"
@@ -143,19 +131,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#7972d8;stroke-width:4.08133793000000011;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:transform-center-x="-510.79237"
        inkscape:transform-center-y="75.777284" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#7972d8;stroke-width:2.81476116;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 978.92731,809.35284 0,50.96875 c 0,20.5118 -16.2862,37.03125 -36.53119,37.03125 l -175.68749,0 0,65.4375 c 0,8.2766 11.80485,14.9375 26.46875,14.9375 l 260.81242,0 c 14.6639,0 26.4688,-6.6609 26.4688,-14.9375 l 0,-138.5 c 0,-8.2766 -11.8049,-14.9375 -26.4688,-14.9375 l -75.06249,0 z"
-       id="rect4065-6-9-3-6-5-4-4-8-2-9-8"
-       inkscape:connector-curvature="0" />
-    <flowRoot
-       id="flowRoot4135-5-4-8-7-5-2-7-2-7-5-0-2"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#574d00;fill-opacity:1;stroke:#ffff44;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="translate(918.22692,942.2114)"><flowRegion
-         id="flowRegion4137-6-5-6-2-7-5-1-7-1-8-3-1" /><flowPara
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#574dd8;fill-opacity:1;stroke:#574dd8;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         id="flowPara3612-1">Cloud Application #N</flowPara></flowRoot>  </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -332,5 +308,23 @@
        transform="translate(728.05779,199.83033)"><flowRegion
          id="flowRegion4137-6-5-6-2-7-5-1-7-1-8-3-7-06" /><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#574dd8;fill-opacity:1;stroke:#574dd8;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         id="flowPara3612-9-4">User Interface</flowPara></flowRoot>  </g>
+         id="flowPara3612-9-4">User Interface</flowPara></flowRoot>    <rect
+       ry="12.687057"
+       rx="19.39102"
+       y="184.7477"
+       x="1060.4104"
+       height="67.599541"
+       width="323.65466"
+       id="rect4065-6-9-3-7-7-4-0-4-5-6-5-4-0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#7972d8;stroke-width:4.87993479;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-370.89855"
+       inkscape:transform-center-y="19.7253" />
+    <flowRoot
+       id="flowRoot4135-5-4-8-7-5-2-7-2-7-5-0-9-4"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#574d00;fill-opacity:1;stroke:#ffff44;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(1220.3337,225.78668)"><flowRegion
+         id="flowRegion4137-6-5-6-2-7-5-1-7-1-8-3-7-8" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#574dd8;fill-opacity:1;stroke:#574dd8;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara3612-9-7">Cloud Application</flowPara></flowRoot>  </g>
 </svg>
