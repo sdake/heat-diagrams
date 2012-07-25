@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="architecture-overview-next.svg"
+   sodipodi:docname="architecture-overview.png"
    inkscape:version="0.48.1 r9760"
    version="1.1"
    id="svg2"
@@ -23,16 +23,29 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="766.03922"
+     inkscape:cx="572.29196"
      inkscape:cy="460.3071"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
-     showgrid="false"
+     inkscape:current-layer="layer5"
+     showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1146"
      inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-smooth-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3440" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <marker
@@ -120,42 +133,6 @@
          inkscape:collect="always"
          stdDeviation="7.1372219"
          id="feGaussianBlur4727" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4729"
-       x="-0.83629429"
-       width="2.6725886"
-       y="-3.3132672"
-       height="7.6265344">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="7.1372219"
-         id="feGaussianBlur4731" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4745"
-       x="-0.034372168"
-       width="1.0687443"
-       y="-0.25339421"
-       height="1.5067884">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="7.1372219"
-         id="feGaussianBlur4747" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4749"
-       x="-0.034372168"
-       width="1.0687443"
-       y="-0.25339421"
-       height="1.5067884">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="7.1372219"
-         id="feGaussianBlur4751" />
     </filter>
     <filter
        inkscape:collect="always"
@@ -255,18 +232,6 @@
     </filter>
     <filter
        inkscape:collect="always"
-       id="filter4785"
-       x="-0.034372168"
-       width="1.0687443"
-       y="-0.25339421"
-       height="1.5067884">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="7.1372219"
-         id="feGaussianBlur4787" />
-    </filter>
-    <filter
-       inkscape:collect="always"
        id="filter4789"
        x="-0.10424982"
        width="1.2084996"
@@ -317,32 +282,6 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter4749-6"
-       x="-0.03437217"
-       width="1.0687443"
-       y="-0.25339422"
-       height="1.5067884">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="7.1372219"
-         id="feGaussianBlur4751-5" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4745-0-6"
-       x="-0.03437217"
-       width="1.0687443"
-       y="-0.25339422"
-       height="1.5067884">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="7.1372219"
-         id="feGaussianBlur4747-4-1" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
        id="filter4745-5"
        x="-0.03437217"
        width="1.0687443"
@@ -365,6 +304,71 @@
          inkscape:collect="always"
          stdDeviation="7.1372219"
          id="feGaussianBlur4747-4-5" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4745-0-7-0"
+       x="-0.03437217"
+       width="1.0687443"
+       y="-0.25339422"
+       height="1.5067884">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.1372219"
+         id="feGaussianBlur4747-4-5-5" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4745-0-7-0-6"
+       x="-0.03437217"
+       width="1.0687443"
+       y="-0.25339422"
+       height="1.5067884">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.1372219"
+         id="feGaussianBlur4747-4-5-5-4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4745-0-7-0-6-5"
+       x="-0.03437217"
+       width="1.0687443"
+       y="-0.25339422"
+       height="1.5067884">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.1372219"
+         id="feGaussianBlur4747-4-5-5-4-7" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4745-0-7-0-6-1"
+       x="-0.03437217"
+       width="1.0687443"
+       y="-0.25339422"
+       height="1.5067884">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.1372219"
+         id="feGaussianBlur4747-4-5-5-4-1" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4745-0-7-0-6-7"
+       x="-0.03437217"
+       width="1.0687443"
+       y="-0.25339422"
+       height="1.5067884">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.1372219"
+         id="feGaussianBlur4747-4-5-5-4-5" />
     </filter>
   </defs>
   <metadata
@@ -410,8 +414,9 @@
        width="740.7522"
        id="rect4065-6-9-3-6-5-4-4-9"
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8.3180666;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5591)"
-       inkscape:transform-center-x="-873.55431"
-       inkscape:transform-center-y="184.04888" />
+       inkscape:transform-center-x="-873.88582"
+       inkscape:transform-center-y="170.95852"
+       transform="matrix(1.0003795,0,0,0.92887562,-0.29263174,57.884092)" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.39311457;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5599)"
        d="m 1418.4467,571.20114 c 15.8221,0 28.5625,18.077 28.5625,40.53125 l 0,299.06255 c 0,22.4542 -12.7404,40.5312 -28.5625,40.5312 l -281.375,0 c -15.8221,0 -28.5625,-18.077 -28.5625,-40.5312 l 0,-89.1563 7.8125,0 c 33.1445,0 59.8437,-29.6189 59.8437,-66.40625 l 0,-184.03125 242.2813,0 z"
@@ -469,16 +474,16 @@
          id="flowRegion4137-6-5-6-2-7-5-1-7-5" /><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="flowPara4141-0-6-8-4-1-4-6-4-92">Cloud Application #2</flowPara></flowRoot>    <rect
-       ry="66.40316"
-       rx="62.496281"
-       y="157.54715"
-       x="393.96359"
-       height="622.74451"
-       width="740.7522"
+       ry="62.209145"
+       rx="62.518684"
+       y="197.01236"
+       x="393.83084"
+       height="583.41205"
+       width="741.0177"
        id="rect4065-6-9-3-6-5-4-4"
-       style="fill:#241ab2;fill-opacity:1;stroke:#7972d8;stroke-width:8.3180666;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       inkscape:transform-center-x="-873.55431"
-       inkscape:transform-center-y="184.04888" />
+       style="fill:#241ab2;fill-opacity:1;stroke:#7972d8;stroke-width:8.05254173;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-873.86744"
+       inkscape:transform-center-y="172.42437" />
     <path
        style="fill:#241ab2;fill-opacity:1;stroke:#7972d8;stroke-width:4.39311457;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 1411.6875,564.2997 c 15.8221,0 28.5625,18.077 28.5625,40.53125 l 0,299.06255 c 0,22.4542 -12.7404,40.5312 -28.5625,40.5312 l -281.375,0 c -15.8221,0 -28.5625,-18.077 -28.5625,-40.5312 l 0,-89.1563 7.8125,0 c 33.1445,0 59.8437,-29.6189 59.8437,-66.40625 l 0,-184.03125 242.2813,0 z"
@@ -520,7 +525,7 @@
        transform="translate(589.35156,601.22373)"><flowRegion
          id="flowRegion4137-6-5-9-0-1-78" /><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         id="flowPara4141-0-6-3-4-1-2">Openstack RPC (RabbitMQ)</flowPara></flowRoot>  </g>
+         id="flowPara4141-0-6-3-4-1-2">Openstack RPC (AMQP)</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -593,18 +598,6 @@
            inkscape:transform-center-y="14.384903" />
       </g>
     </g>
-    <rect
-       ry="26.829193"
-       rx="29.857422"
-       y="223.85622"
-       x="510.15701"
-       height="67.599541"
-       width="498.34891"
-       id="rect4065-6-9-3-7-7-4-96"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.05535841;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4785)"
-       inkscape:transform-center-x="-268.56493"
-       inkscape:transform-center-y="19.7253"
-       transform="matrix(0.47026486,0,0,1,278.03512,6.7008528)" />
     <rect
        ry="14.460668"
        rx="13.471087"
@@ -733,29 +726,6 @@
            inkscape:transform-center-y="14.384903" />
       </g>
     </g>
-    <rect
-       ry="26.829193"
-       rx="29.857422"
-       y="332.2608"
-       x="510.15701"
-       height="67.599541"
-       width="498.34891"
-       id="rect4065-6-9-3-7-7-4-0-0"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.05535841;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4749)"
-       inkscape:transform-center-x="-269.3057"
-       inkscape:transform-center-y="19.7253"
-       transform="matrix(0.47156196,0,0,1,276.58602,3.3248025)" />
-    <rect
-       ry="26.829193"
-       rx="29.857422"
-       y="449.60565"
-       x="520.15698"
-       height="67.599541"
-       width="498.34891"
-       id="rect4065-6-9-3-7-7-4-0-7-8"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.05535841;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4745)"
-       inkscape:transform-center-x="-571.09291"
-       inkscape:transform-center-y="19.7253" />
     <g
        transform="translate(1188.8174,118.73792)"
        id="g5929-0-4-0"
@@ -878,9 +848,21 @@
     </g>
     <rect
        ry="26.829193"
+       rx="29.857422"
+       y="558.94299"
+       x="510.15701"
+       height="67.599541"
+       width="498.34891"
+       id="rect4065-6-9-3-7-7-4-0-7-8-8-6-3"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.05535841;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4745-0-7-0)"
+       inkscape:transform-center-x="-270.79387"
+       inkscape:transform-center-y="19.729671"
+       transform="matrix(0.47416781,0,0,1.0002222,286.14316,-271.48363)" />
+    <rect
+       ry="26.829193"
        rx="14.040896"
-       y="226.4323"
-       x="515.97949"
+       y="284.76266"
+       x="525.64404"
        height="67.599541"
        width="234.35597"
        id="rect4065-6-9-3-7-7-4"
@@ -891,7 +873,7 @@
        id="flowRoot4135-5-4-2"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        xml:space="preserve"
-       transform="translate(559.41462,269.76097)"><flowRegion
+       transform="translate(576.41647,326.67253)"><flowRegion
          id="flowRegion4137-6-5-9" /><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="flowPara4141-0-6-3">Templates</flowPara></flowRoot>    <flowRoot
@@ -1089,40 +1071,11 @@
            height="67"
            x="258"
            y="320" /></flowRegion><flowPara
-         id="flowPara3398" /></flowRoot>    <rect
-       ry="26.829193"
-       rx="14.079624"
-       y="331.46082"
-       x="515.18665"
-       height="67.599541"
-       width="235.0024"
-       id="rect4065-6-9-3-7-7-4-0"
-       style="fill:#574dd8;fill-opacity:1;stroke:#7972d8;stroke-width:4.15823698;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       inkscape:transform-center-x="-269.3057"
-       inkscape:transform-center-y="19.7253" />
-    <rect
-       ry="26.829193"
-       rx="29.857422"
-       y="445.48083"
-       x="515.97949"
-       height="67.599541"
-       width="498.34891"
-       id="rect4065-6-9-3-7-7-4-0-7"
-       style="fill:#574dd8;fill-opacity:1;stroke:#7972d8;stroke-width:6.05535841;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       inkscape:transform-center-x="-571.09291"
-       inkscape:transform-center-y="19.7253" />
-    <flowRoot
-       id="flowRoot4135-5-4-2-6-4"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="translate(663.00754,491.22368)"><flowRegion
-         id="flowRegion4137-6-5-9-0-1" /><flowPara
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         id="flowPara4141-0-6-3-4-1">Heat REST API</flowPara></flowRoot>    <flowRoot
+         id="flowPara3398" /></flowRoot>    <flowRoot
        id="flowRoot4135-5-4-8-7-5-2-7-2-6-5"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        xml:space="preserve"
-       transform="translate(658.90809,195.9299)"><flowRegion
+       transform="translate(647.59438,239.77052)"><flowRegion
          id="flowRegion4137-6-5-6-2-7-5-1-7-7-17" /><flowPara
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="flowPara4141-0-6-8-4-1-4-6-4-3-8">Heat API Bare Metal</flowPara></flowRoot>    <flowRoot
@@ -1214,44 +1167,7 @@
        transform="translate(532.89991,705.74076)"><flowRegion
          id="flowRegion4137-6-5-9-0-1-7" /><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         id="flowPara4141-0-6-3-4-1-7">Heat Engine #1</flowPara></flowRoot>    <rect
-       ry="26.829193"
-       rx="29.857422"
-       y="332.2608"
-       x="510.15701"
-       height="67.599541"
-       width="498.34891"
-       id="rect4065-6-9-3-7-7-4-0-0-2"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.05535841;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4749-6)"
-       inkscape:transform-center-x="-269.30569"
-       inkscape:transform-center-y="19.7253"
-       transform="matrix(0.47156195,0,0,1,542.22122,3.3248025)" />
-    <rect
-       ry="26.829193"
-       rx="14.079624"
-       y="331.46082"
-       x="780.82184"
-       height="67.599541"
-       width="235.0024"
-       id="rect4065-6-9-3-7-7-4-0-6"
-       style="fill:#574dd8;fill-opacity:1;stroke:#7972d8;stroke-width:4.15823698;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       inkscape:transform-center-x="-269.3057"
-       inkscape:transform-center-y="19.7253" />
-    <flowRoot
-       id="flowRoot4135-5-4-2-0"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="translate(580.60556,375.12209)"><flowRegion
-         id="flowRegion4137-6-5-9-4" /><flowPara
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         id="flowPara4141-0-6-3-6">Heat CLI</flowPara></flowRoot>    <flowRoot
-       id="flowRoot4135-5-4-2-0-7"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-       xml:space="preserve"
-       transform="translate(834.2279,376.10729)"><flowRegion
-         id="flowRegion4137-6-5-9-4-8" /><flowPara
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         id="flowPara4141-0-6-3-6-7">External</flowPara></flowRoot>    <flowRoot
+         id="flowPara4141-0-6-3-4-1-7">Heat Engine #1</flowPara></flowRoot>    <flowRoot
        id="flowRoot4135-5-4-8-1-5-7-0-2"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
        xml:space="preserve"
@@ -1288,5 +1204,95 @@
        transform="translate(802.0658,705.21287)"><flowRegion
          id="flowRegion4137-6-5-9-0-1-7-2" /><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         id="flowPara4141-0-6-3-4-1-7-2">Heat Engine #N</flowPara></flowRoot>  </g>
+         id="flowPara4141-0-6-3-4-1-7-2">Heat Engine #N</flowPara></flowRoot>    <rect
+       ry="26.829193"
+       rx="29.857422"
+       y="558.94299"
+       x="510.15701"
+       height="67.599541"
+       width="498.34891"
+       id="rect4065-6-9-3-7-7-4-0-7-8-8-6-3-2-2"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.05535841;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4745-0-7-0-6-5)"
+       inkscape:transform-center-x="-272.29812"
+       inkscape:transform-center-y="19.727513"
+       transform="matrix(0.4768018,0,0,1.000111,284.9521,-183.91351)" />
+    <rect
+       ry="26.829193"
+       rx="14.040896"
+       y="372.36221"
+       x="525.64404"
+       height="67.599541"
+       width="234.35597"
+       id="rect4065-6-9-3-7-7-4-4"
+       style="fill:#574dd8;fill-opacity:1;stroke:#7972d8;stroke-width:4.15251398;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-268.56492"
+       inkscape:transform-center-y="19.7253" />
+    <rect
+       ry="26.829193"
+       rx="29.857422"
+       y="558.94299"
+       x="510.15701"
+       height="67.599541"
+       width="498.34891"
+       id="rect4065-6-9-3-7-7-4-0-7-8-8-6-3-2-28"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.05535841;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4745-0-7-0-6-1)"
+       inkscape:transform-center-x="-267.78548"
+       inkscape:transform-center-y="19.734074"
+       transform="matrix(0.46890003,0,0,1.0004457,293.07349,-87.945417)" />
+    <rect
+       ry="26.829193"
+       rx="14.040896"
+       y="464.7627"
+       x="525.64404"
+       height="67.599541"
+       width="234.35597"
+       id="rect4065-6-9-3-7-7-4-4-8"
+       style="fill:#574dd8;fill-opacity:1;stroke:#7972d8;stroke-width:4.15251398;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-268.56492"
+       inkscape:transform-center-y="19.7253" />
+    <rect
+       ry="26.829193"
+       rx="29.857422"
+       y="558.94299"
+       x="510.15701"
+       height="67.599541"
+       width="498.34891"
+       id="rect4065-6-9-3-7-7-4-0-7-8-8-6-3-2-8"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.05535841;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4745-0-7-0-6-7)"
+       inkscape:transform-center-x="-270.79387"
+       inkscape:transform-center-y="19.729668"
+       transform="matrix(0.47416781,0,0,1.0002222,545.04615,-89.227147)" />
+    <rect
+       ry="26.829193"
+       rx="14.040896"
+       y="464.7627"
+       x="780"
+       height="67.599541"
+       width="234.35597"
+       id="rect4065-6-9-3-7-7-4-4-8-8"
+       style="fill:#574dd8;fill-opacity:1;stroke:#7972d8;stroke-width:4.15251398;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:transform-center-x="-268.56492"
+       inkscape:transform-center-y="19.7253" />
+    <flowRoot
+       id="flowRoot4135-5-4-2-0"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(578.58579,412.3622)"><flowRegion
+         id="flowRegion4137-6-5-9-4" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara4141-0-6-3-6">Heat CLI</flowPara></flowRoot>    <flowRoot
+       id="flowRoot4135-5-4-2-6-4"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(542.79939,509.60846)"><flowRegion
+         id="flowRegion4137-6-5-9-0-1" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara4141-0-6-3-4-1">Heat REST API</flowPara></flowRoot>    <flowRoot
+       id="flowRoot4135-5-4-2-6-4-1"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+       xml:space="preserve"
+       transform="translate(802.49174,504.80073)"><flowRegion
+         id="flowRegion4137-6-5-9-0-1-2" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara4141-0-6-3-4-1-9">Heat Metadata</flowPara></flowRoot>  </g>
 </svg>
